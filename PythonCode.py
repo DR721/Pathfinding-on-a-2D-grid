@@ -1,4 +1,3 @@
-```
 # phase 1 plus BONUS
 
 # define the initial maze
@@ -141,4 +140,3 @@ maze1 = randomizeGrid(maze, 20)
 
 print(shortestPath(maze1,0))
 maze1
-```
