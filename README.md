@@ -13,3 +13,5 @@ Add an additional 20 randomly placed obstacles and print their locations. They s
 
 BONUS:
 If no such path is possible, the algorithm should print "Unable to reach delivery point" and identify which obstacles need to be removed for the vehicle to reach its destination.
+
+View pdf for more details.
